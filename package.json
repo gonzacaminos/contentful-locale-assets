@@ -1,0 +1,17 @@
+{
+  "name": "cf-assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "contentful-management": "^10.36.0",
+    "dotenv": "^16.3.1",
+    "install": "^0.13.0",
+    "npm": "^9.7.1"
+  }
+}
